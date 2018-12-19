@@ -1,0 +1,4 @@
+.idea
+settings.py
+db.sqlite3
+example_01/__pycache__/
